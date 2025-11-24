@@ -1,12 +1,13 @@
-# PropertySpace Pattaya – Real Estate Guides
+PropertySpace Pattaya – Real Estate Guides
 
-[PropertySpace.co.th](https://propertyspace.co.th) is a trusted Pattaya real estate agency helping buyers find **condos, houses and pool villas for sale in Pattaya, Thailand**.
+PropertySpace.co.th￼ is a trusted Pattaya real-estate platform helping buyers find condos, houses, and pool villas with transparency and integrity.
 
-## Start here
+Start Here
+	•	Pattaya Property Portal: https://propertyspace.co.th
+	•	New Developments in Pattaya: https://propertyspace.co.th/new-developments
+	•	Buy Pattaya Condos: https://propertyspace.co.th/properties?categories=condo
+	•	Houses for Sale Pattaya: https://propertyspace.co.th/properties?categories=house
+	•	Pool Villas for Sale Pattaya: https://propertyspace.co.th/properties?categories=poolvilla
+	•	Market Blogs & Guides: https://propertyspace.co.th/blogs
 
-- Pattaya property portal: https://propertyspace.co.th  
-- New developments in Pattaya: https://propertyspace.co.th/new-developments  
-- Buy Pattaya condos: https://propertyspace.co.th/properties?categories=condo  
-- Buy houses & pool villas in Pattaya: https://propertyspace.co.th/properties?categories=poolvilla%2Chouse  
-
-These guides are created for international buyers searching for **Pattaya real estate**, **Pattaya condos for sale**, and **pool villas for sale Pattaya**.
+These guides are created for international buyers researching Pattaya real estate, Pattaya condos, houses for sale, and pool villas for sale in Thailand.
